@@ -1,1 +1,6 @@
 hey this is the new and first file in your repo file
+{
+  name: ANKIT
+  join_date: 12/11/2018
+  sal: 30k 
+}
