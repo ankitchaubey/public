@@ -1,11 +1,7 @@
 import requests
 import json
 
-<<<<<<< HEAD
-web_hook_url = "https://hooks.slack.com/services/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"
-=======
-web_hook_url= "path"
->>>>>>> 20ada49ece6055576c98705e4bec79dbbaaf907d
+web_hook_url = "https://hooks.slack.com/services/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"
 
 image_url = "http://cdn.cloudinary.com/demo/image/upload/w_400/hungry_cat.jpg"
 slack_msg = {"username": "ankit",
