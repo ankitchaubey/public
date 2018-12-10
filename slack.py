@@ -2,7 +2,7 @@ import requests
 import json
 
 <<<<<<< HEAD
-web_hook_url = "https://hooks.slack.com/services/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"
+web_hook_url = ""
 =======
 web_hook_url= "path"
 >>>>>>> 20ada49ece6055576c98705e4bec79dbbaaf907d
